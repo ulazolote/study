@@ -1,0 +1,88 @@
+p {
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: orange;
+}
+
+tr {
+    color: rgb(165, 239, 0);
+
+}
+
+td {
+    width: 400px;
+    height: 200px;
+}
+
+p {
+    width: 300px;
+}
+
+td {
+    width: 400px;
+    height: 300px;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    width: 500px;
+}
+
+h1 {
+    text-align: right;
+}
+
+h2 {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    width: 300px;
+}
+
+table {
+    width: 500px;
+    height: 300px;
+}
+
+td {
+    font-weight: bold;
+}
+
+th {
+    font-weight: normal;
+}
+h2{font-style: italic;}
+
+
+
+
+
+
+
+
