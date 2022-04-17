@@ -100,37 +100,29 @@ p {
     font-family: Arial;
 }
 
+
 p {
-    font-family: Gabriola;
+    font-size: 30px;
+    line-height: 1.5;
 }
 
 p {
-    font-family: Verdana;
+    font: 13px/20px "Times New Roman";
 }
 
 p {
-    font-family: "Trebuchet MS";
+    font: bold 300px/40px Arial red;
 }
 
 p {
-    font-family: Impact;
+    font: bold italic 40px/60px Arial;
 }
 
 p {
-    font-family: "Arial Black";
+    text-indent: 50px;
+    text-align: center;
+    width: 400px;
 }
-
-p {
-    font-family: "Comic Sans MS";
-}
-
-p {
-    font-family: "Courier New";
-}
-p{font-size: 30px;line-height: 1.5;}
-p{font: 13px/20px "Times New Roman";}
-p{font: bold 300px/40px Arial red;}
-p{font: bold italic 40px/60px Arial;}
 
 
 
