@@ -122,59 +122,14 @@
 /*p {*/
 /*    text-indent: 50px;*/
 /*    text-align: center;*/
-/*    width: 400px;*/
-/*}*/
-
-/*a {*/
-/*    text-decoration: overline;*/
-/*}*/
-
-/*a {*/
-/*    color: red;*/
-/*}*/
-
-/*a {*/
-/*    text-decoration: line-through;*/
-/*}*/
-
-/*a {*/
-/*    text-decoration: underline;*/
-/*}*/
-
-/*h1 h2 h3 {*/
-/*    text-align: center;*/
-/*    color: red;*/
-/*}*/
-
-/*h3 {*/
-/*    font-size: 16px;*/
-/*    color: red;*/
-/*}*/
-
-/*ul li{*/
-/*    color: red;*/
-/*}*/
-
-/*p  i {*/
-/*    color: green;*/
-/*}*/
-
-/*ol li {*/
-/*    color: blue;*/
-/*}*/
-/*b i{color: red;}*/
-/*p>i{color: red;}*/
-/*li>b{color: blue;}*/
-/*.eee{color: green;}*/
-/*.zzz{color: blue;}*/
-/*.odd{color: red;}*/
-/*.eve{color: green;}*/
-/*.eee{color:red;}*/
-/*.xxx{font-size: 30px;}*/
-/*.xxx{*/
-/*    color: green;}*/
-/*p{width: 100%;}*/
-
-
-
-
+.block1{color: red;}
+.block2{color: green;}
+.block3{color: blue;}
+.eee{font-size: 20px;}
+.zzz{font-size: 30px;}
+.ggg{font-size: 35px;}
+.eee, .zzz, .ggg, .header{text-align: center;
+    font-family: Arial, sans-serif;}
+.header{color: red;}
+h2.header{font-size: 40px;}
+h3.header{font-size: 30px;}
