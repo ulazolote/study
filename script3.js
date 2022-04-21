@@ -6,12 +6,16 @@ alert('3 страниц');
 let num;    // объявим переменную
 num = 100;    // присвоим ей значение
 alert(num); // выведем значение переменной на экран
-let a, b, c; //объявляем все 3 переменные
-a=1+2+3;
-b=2;
-c=3;  // Присваиваем переменным значения
-alert(a);
-alert(b);
-alert(c);
-
-
+let a, b; //объявляем 2 переменные
+a=10;
+b=5;
+alert(a+b);
+alert(a-b);
+alert(a*b);
+alert(a/b);
+let c, d, result;
+c=(a-b);
+d=7;
+result=(c+d);
+alert(result);
+alert(a+b+c);

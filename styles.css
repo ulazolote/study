@@ -133,3 +133,8 @@
 .header{color: red;}
 h2.header{font-size: 40px;}
 h3.header{font-size: 30px;}
+.eee p {color: red;}
+.eee i {color: red;}
+.eee .bbb {color: red;}
+.eee h2 {color: blue;}
+.eee h2.bbb{color: green;}
