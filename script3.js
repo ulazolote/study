@@ -23,7 +23,3 @@ alert('3 страниц');
 // i = "сергей";
 // f = "золотенков";
 // alert(i+f);
-let str, rst;
-str="hello"
-rst="world"
-alert(str+ " "+rst);
