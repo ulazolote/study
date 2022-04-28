@@ -122,30 +122,39 @@
 /*p {*/
 /*    text-indent: 50px;*/
 /*    text-align: center;*/
-.block1{color: red;}
-.block2{color: green;}
-.block3{color: blue;}
-.eee{font-size: 20px;}
-.zzz{font-size: 30px;}
-.ggg{font-size: 35px;}
-.eee, .zzz, .ggg, .header{text-align: center;
-    font-family: Arial, sans-serif;}
-.header{color: red;}
-h2.header{font-size: 40px;}
-h3.header{font-size: 30px;}
-.eee p {color: red;}
-.eee i {color: red;}
-.eee .bbb {color: red;}
-.eee h2 {color: blue;}
-.eee h2.bbb{color: green;}
-p.bbb{color: red;}
-p .bbb{color: red;}
-.eee p.bbb{color:red;}
-.eee p .bbb{color: red;}
-.success {color: green;}
-.error {color: red;}
-.large {font-size: 30px;}
-.small {font-size: 20px;}
-.www{color: green;}
-.ppp{font-size: 50px;}
-.vvv{text-align: center}
+/*.block1{color: red;}*/
+/*.block2{color: green;}*/
+/*.block3{color: blue;}*/
+/*.eee{font-size: 20px;}*/
+/*.zzz{font-size: 30px;}*/
+/*.ggg{font-size: 35px;}*/
+/*.eee, .zzz, .ggg, .header{text-align: center;*/
+/*    font-family: Arial, sans-serif;}*/
+/*.header{color: red;}*/
+/*h2.header{font-size: 40px;}*/
+/*h3.header{font-size: 30px;}*/
+/*.eee p {color: red;}*/
+/*.eee i {color: red;}*/
+/*.eee .bbb {color: red;}*/
+/*.eee h2 {color: blue;}*/
+/*.eee h2.bbb{color: green;}*/
+/*p.bbb{color: red;}*/
+/*p .bbb{color: red;}*/
+/*.eee p.bbb{color:red;}*/
+/*.eee p .bbb{color: red;}*/
+/*.success {color: green;}*/
+/*.error {color: red;}*/
+/*.large {font-size: 30px;}*/
+/*.small {font-size: 20px;}*/
+/*.www{color: green;}*/
+/*.ppp{font-size: 50px;}*/
+/*.vvv{text-align: center}*/
+#elem1{color: red;}
+#elem2{color: green;}
+#elem3{color: blue;}
+#elem h2{color: blue;}
+#elem4 p.text{color: orange;}
+#elem4 li.text{color: orange;}
+#elem5 p.text{color: blue;}
+#elem5 li.text{color: green;}
+.eee.zzz.ccc{color: red;}
