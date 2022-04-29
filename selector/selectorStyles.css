@@ -16,3 +16,6 @@ h2#elem2.bbb {
 h4.zzz {
     color: indigo;
 }
+p .zzz {
+    color: red;
+}
