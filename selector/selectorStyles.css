@@ -31,3 +31,6 @@ p .zzz {
 .bbb .zzz.xxx {
     color: red;
 }
+.bbb.zzz .xxx {
+    color: red;
+}
