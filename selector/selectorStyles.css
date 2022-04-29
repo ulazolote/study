@@ -10,3 +10,6 @@ h2.bbb.zzz {
 #elem1.bbb.zzz {
     color: green;
 }
+h2#elem2.bbb {
+    color: blue;
+}
