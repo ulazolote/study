@@ -37,3 +37,10 @@ p .zzz {
 .bbb .zzz .xxx {
     color: red;
 }
+#elem4.bbb {
+    color: red;
+}
+#elem5 .bbb {
+    color: green;
+}
+
