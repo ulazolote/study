@@ -25,3 +25,7 @@ p .zzz {
 .bbb .zzz {
     color: green;
 }
+.bbb.zzz.xxx {
+    color: orange;
+}
+
