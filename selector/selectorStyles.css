@@ -22,3 +22,6 @@ p .zzz {
 .bbb.zzz {
     color: red;
 }
+.bbb .zzz {
+    color: green;
+}
