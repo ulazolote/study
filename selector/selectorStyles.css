@@ -28,4 +28,6 @@ p .zzz {
 .bbb.zzz.xxx {
     color: orange;
 }
-
+.bbb .zzz.xxx {
+    color: red;
+}
