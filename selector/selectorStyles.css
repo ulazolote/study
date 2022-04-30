@@ -1,4 +1,21 @@
-#block h1, #block h2{text-align: center;}
-#block h1{font-size: 30px;}
-#block h2{font-size: 20px;}
+#block h1, #block1 h2, #block2 h3 {
+    text-align: center;
+}
+
+#block h1 {
+    font-size: 30px;
+}
+
+#block1 h2 {
+    font-size: 20px;
+    color: blue;
+}
+
+#block2 h3 {
+    font-size: 16px;
+    color: red;
+}
+
+
+
 
