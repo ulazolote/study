@@ -1,23 +1,24 @@
-h1#block, h2#block1 , h3#block2  {
-    text-align: center;
-}
+/*h1#block, h2#block1 , h3#block2  {*/
+/*    text-align: center;*/
+/*}*/
 
-h1#block  {
-    font-size: 30px;
-}
+/*h1#block  {*/
+/*    font-size: 30px;*/
+/*}*/
 
-h2#block1  {
-    font-size: 20px;
-    color: blue;
-}
+/*h2#block1  {*/
+/*    font-size: 20px;*/
+/*    color: blue;*/
+/*}*/
 
-h3#block2  {
-    font-size: 16px;
-    color: red;
-}
-div p{color: red;}
-div h2{color: red;}
-#block3 p{color: green}
-div#block4 h2{color: blue;}
- h2.bbb, p.bbb ,div.bbb{color: forestgreen;}
-div#block6 h2.bbb,p.bbb{color:fuchsia;}
+/*h3#block2  {*/
+/*    font-size: 16px;*/
+/*    color: red;*/
+/*}*/
+/*div p{color: red;}*/
+/*div h2{color: red;}*/
+/*#block3 p{color: green}*/
+/*div#block4 h2{color: blue;}*/
+/* h2.bbb, p.bbb ,div.bbb{color: forestgreen;}*/
+/*div#block6 h2.bbb,p.bbb{color:fuchsia;}*/
+p.bbb{color: red;}
