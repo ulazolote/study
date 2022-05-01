@@ -30,4 +30,5 @@
 /*div.fff, h2.fff, p.fff{color: red;}*/
 /*div.fff p{text-align:center;color: red;}*/
 /*p.fff{text-align:center;color: blue;}*/
-div.fff .bbb{text-align:center;color: blue;}
+/*div.fff .bbb{text-align:center;color: blue;}*/
+div.fff h2.bbb{text-align: center;color: red;}
