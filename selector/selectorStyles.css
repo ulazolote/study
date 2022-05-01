@@ -29,5 +29,5 @@
 /*div#block4  p.bbb, div#block4 p.xxx{text-align:center;font-size:100px;color: blue;}*/
 /*div.fff, h2.fff, p.fff{color: red;}*/
 div.fff p{text-align:center;color: red;}
-
+p.fff{text-align:center;color: blue;}
 
