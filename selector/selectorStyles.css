@@ -27,6 +27,7 @@
 /*h2.bbb, h2.xxx, p.bbb, p.xxx, div.bbb{color: blue;}*/
 /*h2.xxx, p.bbb{text-align:center;font-size: 130px;}*/
 div#block4  p.bbb, div#block4 p.xxx{text-align:center;font-size:100px;color: blue;}
+div.fff, h2.fff, p.fff{color: red;}
 
 
 
