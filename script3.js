@@ -42,6 +42,8 @@
 // alert(b);// истина
 // let a=false;
 // alert(a);// ложь
-let str1='eee';
-let str2='fff';
-alert(str1 * str2);// выведет NaN
+// let str1='eee';
+// let str2='fff';
+// alert(str1 * str2);// выведет NaN
+alert(10/0);// бесконечность
+alert(-10/0);// минус бесконечность
