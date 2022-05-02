@@ -36,7 +36,9 @@
 // let txt = aaa ${str1} bbb ${str2} ccc;
 // let a;
 // alert(a);
-let a=null;
-alert(a);// вывел нулл (ничего)
-let b=true;
-alert(b);// истина
+// let a=null;
+// alert(a);// вывел нулл (ничего)
+// let b=true;
+// alert(b);// истина
+let a=false;
+alert(a);// ложь
