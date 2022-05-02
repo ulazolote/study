@@ -34,5 +34,7 @@
 // let str1 = 'xxx';
 // let str2 = 'yyy';
 // let txt = aaa ${str1} bbb ${str2} ccc;
-let a;
-alert(a);
+// let a;
+// alert(a);
+let a=null;
+alert(a);// вывел нулл
