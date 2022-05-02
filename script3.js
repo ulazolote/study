@@ -29,5 +29,8 @@
 // alert(r % k);//13/5=2,6 13минус5 умножено на 2
 // let str='Сергей Золотенков'
 // alert(str +' '+ 'java')
-let str='длина нашей строки'
-alert(str.length)//длина строки
+// let str='длина нашей строки'
+// alert(str.length
+let str1 = 'xxx';
+let str2 = 'yyy';
+let txt = aaa ${str1} bbb ${str2} ccc
