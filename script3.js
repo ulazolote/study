@@ -37,4 +37,6 @@
 // let a;
 // alert(a);
 let a=null;
-alert(a);// вывел нулл
+alert(a);// вывел нулл (ничего)
+let b=true;
+alert(b);// истина
