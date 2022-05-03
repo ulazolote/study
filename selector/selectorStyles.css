@@ -36,4 +36,4 @@ h2{text-align:center;color: red;}
 h3{font-size: 80px;color: blue;}
 /*#elem+li{font-size:50px;color: green;}*/
 /*.elem+li{font-size: 70px;color: red;}*/
-#elem~li{color: red;}
+main>div,section{color: red;}
