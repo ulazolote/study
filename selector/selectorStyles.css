@@ -34,4 +34,5 @@
 /*div.fff h2.bbb{text-align: center;color: red;}*/
 h2{text-align:center;color: red;}
 h3{font-size: 80px;color: blue;}
-#elem+li{font-size:50px;color: green;}
+/*#elem+li{font-size:50px;color: green;}*/
+.elem+li{font-size: 70px;color: red;}
