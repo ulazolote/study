@@ -64,3 +64,4 @@ let  str = "hello";
 let  f = 123456;
 let d= Infinity;
 console.log(a, a1, b, c, e, str, f, d);
+alert(eee);
