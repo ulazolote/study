@@ -48,11 +48,19 @@
 // alert(str1 * str2);// выведет NaN
 // alert(10/0);// бесконечность
 // alert(-10/0);// минус бесконечность
-console.log(123);
-let  num=666;
-console.log(num);
-let num1 = 123;
-let num2 = 456;
-let num3 = 555;
-console.log(num1, num2, num3);
-
+// console.log(123);
+// let  num=666;
+// console.log(num);
+// let num1 = 123;
+// let num2 = 456;
+// let num3 = 555;
+// console.log(num1, num2, num3);
+let  a=null;
+let  a1;
+let  b=true;
+let  c=false;
+let  e=NaN;
+let  str = "hello";
+let  f = 123456;
+let d= Infinity;
+console.log(a, a1, b, c, e, str, f, d);
