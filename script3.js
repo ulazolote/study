@@ -33,7 +33,8 @@
 // alert(str.length
 // let str1 = 'xxx';
 // let str2 = 'yyy';
-// let txt = aaa ${str1} bbb ${str2} ccc;
+// let txt = `aaa ${str1} bbb ${str2} ccc`;
+// alert(txt);
 // let a;
 // alert(a);
 // let a=null;
@@ -47,3 +48,10 @@
 // alert(str1 * str2);// выведет NaN
 // alert(10/0);// бесконечность
 // alert(-10/0);// минус бесконечность
+console.log(123);
+let  num=666;
+console.log(num);
+let num1 = 123;
+let num2 = 456;
+let num3 = 555;
+console.log(num1, num2, num3);
