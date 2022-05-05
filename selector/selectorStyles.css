@@ -32,8 +32,8 @@
 /*p.fff{text-align:center;color: blue;}*/
 /*div.fff .bbb{text-align:center;color: blue;}*/
 /*div.fff h2.bbb{text-align: center;color: red;}*/
-h2{text-align:center;color: red;}
-h3{font-size: 80px;color: blue;}
+/*h2{text-align:center;color: red;}*/
+/*h3{font-size: 80px;color: blue;}*/
 /*#elem+li{font-size:50px;color: green;}*/
 /*.elem+li{font-size: 70px;color: red;}*/
 /*main>div,section{color: red;}*/
@@ -61,12 +61,15 @@ h3{font-size: 80px;color: blue;}
 /*    color: blue;text-decoration: none;*/
 /*}*/
 /*a:hover {color: red;}*/
+/*#block a {*/
+/*    color: red;*/
+/*}*/
+/*#block a:hover {*/
+/*    text-decoration: none;*/
+/*}*/
 a {
-    color: red;
+    color: blue;
 }
 a:hover {
     text-decoration: none;
-}
-a:active {
-    color: blue;
 }
