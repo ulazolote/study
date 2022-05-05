@@ -56,10 +56,17 @@ h3{font-size: 80px;color: blue;}
 /*a:active {*/
 /*    color: black;*/
 /*}*/
+
+/*a {*/
+/*    color: blue;text-decoration: none;*/
+/*}*/
+/*a:hover {color: red;}*/
 a {
-    color: blue;text-decoration: none;
+    color: red;
 }
-a:hover {color: red;}
-
-
-
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    color: blue;
+}
