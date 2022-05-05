@@ -66,10 +66,10 @@
 /*}*/
 /*#block a:hover {*/
 /*    text-decoration: none;*/
-/*}*/
-a {
+/*/*/
+a.zzz {
     color: blue;
 }
-a:hover {
+a.zzz:hover {
     text-decoration: none;
 }
