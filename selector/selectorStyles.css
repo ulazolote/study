@@ -67,9 +67,9 @@
 /*#block a:hover {*/
 /*    text-decoration: none;*/
 /*/*/
-a.zzz {
-    color: blue;
+.block a.zzz {
+    color: red;
 }
-a.zzz:hover {
+.block a.zzz:hover {
     text-decoration: none;
 }
