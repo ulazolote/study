@@ -64,6 +64,6 @@
 // let  f = 123456;
 // let d= Infinity;
 // console.log(a, a1, b, c, e, str, f, d);
-const PI = 3.14;
-let radius = 5;
-console.log(2*PI*radius);
+// // const PI = 3.14;
+// // let radius = 5;
+// console.log(2*PI*radius);
