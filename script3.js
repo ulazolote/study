@@ -70,7 +70,10 @@
 // let a=Number('10');
 // let b=Number('20');
 // alert(a+b);
-let a = '2';
-let b = '3';
-alert(+a + +b); // выведет 5
+// let a = '2';
+// let b = '3';
+// alert(+a + +b); // выведет 5
+let a=parseInt('5px');
+let b=parseInt('6px');
+alert(+a + +b);
 
