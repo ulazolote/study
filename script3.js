@@ -67,6 +67,3 @@
 // // const PI = 3.14;
 // // let radius = 5;
 // console.log(2*PI*radius);
-let a = '5' + 2;
-alert(a);
-
