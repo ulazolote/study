@@ -73,7 +73,8 @@
 // let a = '2';
 // let b = '3';
 // alert(+a + +b); // выведет 5
-let a=parseInt('5px');
-let b=parseInt('6px');
+let a=parseFloat
+('5.5px');
+let b=parseFloat('6.25px');
 alert(+a + +b);
 
