@@ -73,7 +73,10 @@
 // let a = '2';
 // let b = '3';
 // alert(+a + +b); // выведет 5
-let a=1;
-let b=4;
-alert(String(a)+String(b));
+// let a=1;
+// let b=4;
+// alert(String(a)+String(b));// выведет 14
+let a=123456;
+alert(String(a).length);//найти длину строки
+
 
