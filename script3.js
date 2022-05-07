@@ -76,7 +76,7 @@
 // let a=1;
 // let b=4;
 // alert(String(a)+String(b));// выведет 14
-let a=123456;
-alert(String(a).length);//найти длину строки
-
+let a=123;
+let b=321;
+alert(+String(a).length + +String(b).length);
 
