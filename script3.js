@@ -79,4 +79,5 @@
 // let a=123;
 // let b=321;
 // alert(+String(a).length + +String(b).length);// выведет 6
-alert( String(true) + 1 );
+alert( String(true) + Number(true)
+);
