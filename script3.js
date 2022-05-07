@@ -81,3 +81,4 @@
 // alert(+String(a).length + +String(b).length);// выведет 6
 
 
+
