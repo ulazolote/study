@@ -79,5 +79,3 @@
 // let a=123;
 // let b=321;
 // alert(+String(a).length + +String(b).length);// выведет 6
-let test = Boolean(3);
-alert(test);
