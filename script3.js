@@ -73,8 +73,7 @@
 // let a = '2';
 // let b = '3';
 // alert(+a + +b); // выведет 5
-let a=parseFloat
-('5.5px');
-let b=parseFloat('6.25px');
-alert(+a + +b);
+let a=1;
+let b=4;
+alert(String(a)+String(b));
 
