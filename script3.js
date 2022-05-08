@@ -85,11 +85,11 @@
 // alert(str[4]);
 // let str='abcde';
 // alert(str [4,  3,  2,  1, 0]);
-let str='abcde';
-let num = 2;
-alert(str[num]);
-
-
+// let str='abcde';
+// let num = 2;
+// alert(str[num]);
+let str='javascript';
+alert(str [str.length -1]);
 
 
 
