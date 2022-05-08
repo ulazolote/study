@@ -79,11 +79,12 @@
 // let a=123;
 // let b=321;
 // alert(+String(a).length + +String(b).length);// выведет 6
-let str = 'abcde';
-alert(str[0]);
-alert(str[2]);
-alert(str[4]);
-
+// let str = 'abcde';
+// alert(str[0]);
+// alert(str[2]);
+// alert(str[4]);
+let str='abcde';
+alert(str [4,  3,  2,  1, 0]);
 
 
 
