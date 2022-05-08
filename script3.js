@@ -83,9 +83,11 @@
 // alert(str[0]);
 // alert(str[2]);
 // alert(str[4]);
+// let str='abcde';
+// alert(str [4,  3,  2,  1, 0]);
 let str='abcde';
-alert(str [4,  3,  2,  1, 0]);
-
+let num = 2;
+alert(str[num]);
 
 
 
