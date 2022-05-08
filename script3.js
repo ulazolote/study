@@ -89,7 +89,7 @@
 // let num = 2;
 // alert(str[num]);
 let str='javascript';
-alert(str [str.length -2]);
+alert(str [str.length -3]);
 
 
 
