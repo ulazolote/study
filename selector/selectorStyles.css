@@ -94,4 +94,18 @@
 /*li:not(:first-child) {*/
 /*    color: blue;*/
 /*}*/
-li:not(:first-child, :last-child ) {color: red;}
+/*li:not(:first-child, :last-child ) {color: red;}*/
+#elem {
+    width: 200px;
+    height: 200px;
+    color: red;
+    background-color: blue; /* задаем
+		синий цвет фона */
+}
+#elem1 {
+    width: 400px;
+    height: 200px;
+    color: white;
+    background-color:green; /* задаем
+		зеленого цвет фона */
+}
