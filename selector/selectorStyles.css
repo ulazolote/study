@@ -67,3 +67,12 @@
 /*#block a:hover {*/
 /*    text-decoration: none;*/
 /*/*/
+/*li:not(:first-child) {*/
+/*    color: red;*/
+/*}*/
+p:first-of-type {
+    color: red;
+}
+h2:last-of-type {
+    color: green;
+}
