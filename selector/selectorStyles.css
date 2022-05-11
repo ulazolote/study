@@ -91,6 +91,7 @@
 /*!*    color: red;*!*/
 /*!*}*!*/
 /*li:not(.elem) {color: blue;}*/
-li:not(:first-child) {
-    color: blue;
-}
+/*li:not(:first-child) {*/
+/*    color: blue;*/
+/*}*/
+li:not(:first-child, :last-child ) {color: red;}
