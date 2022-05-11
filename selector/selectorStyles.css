@@ -82,11 +82,12 @@
 /*h2:nth-last-of-type(2) {*/
 /*    color: red;*/
 /*}*/
-div {
-    border: 1px dashed green;
-    padding: 15px;
-    margin-bottom: 10px;
-}
-h2:only-of-type {
-    color: red;
-}
+/*div {*/
+/*    border: 1px dashed green;*/
+/*    padding: 15px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
+/*h2:only-of-type {*/
+/*    color: red;*/
+/*}*/
+li:not(.elem) {color: blue;}
