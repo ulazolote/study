@@ -195,4 +195,10 @@
     border-radius: 20px;
     background-color: #4dee99;
 }
+#elem4 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 1px solid green;
+}
 
