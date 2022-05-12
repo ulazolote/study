@@ -102,47 +102,68 @@
 /*    background-color: blue; !* задаем*/
 /*		синий цвет фона *!*/
 /*}*/
-#elem1 {
-    text-align: center;
-    font-size: 30px;
-    width: 400px;
-    height: 200px;
-    color: white;
-    background-color:greenyellow; /* задаем
-		зеленый цвет фона */
-}
+/*}!*#elem1 {*!*/
+/*    text-align: center;*/
+/*    font-size: 30px;*/
+/*    width: 400px;*/
+/*    height: 200px;*/
+/*    color: white;*/
+/*    background-color:#4dee99; !* задаем*/
+/*		зеленый цвет фона *!*/
+/*}*/
+/*#elem {*/
+/*    border-width: 3px;    !* толщина 3px *!*/
+/*    border-style: solid;  !* в виде линии *!*/
+/*    border-color: red;    !* красный цвет *!*/
+/*    width: 300px;*/
+/*    height: 100px;*/
+/*}*/
+/*#elem2 {*/
+/*    border-width: 5px;*/
+/*    border-style: ridge;*/
+/*    border-color: blue;*/
+/*    width: 300px;*/
+/*    height: 200px;*/
+/*}*/
+/*#elem3 {*/
+/*    border-width: 4px;*/
+/*    border-style: dotted;*/
+/*    border-color: red;*/
+/*    width: 300px;*/
+/*    height: 200px;*/
+/*}*/
+/*#elem4 {*/
+/*    border-width: 3px;*/
+/*    border-style: dashed;*/
+/*    border-color: orange;*/
+/*    width: 300px;*/
+/*    height: 200px;*/
+/*}*/
+/*#elem5 {*/
+/*    border-width: 7px;*/
+/*    border-style: double;*/
+/*    border-color: blue;*/
+/*    width: 300px;*/
+/*    height: 200px;*/
+/*}*/
 #elem {
-    border-width: 3px;    /* толщина 3px */
-    border-style: solid;  /* в виде линии */
-    border-color: red;    /* красный цвет */
+    border: 1px solid red;
     width: 300px;
     height: 100px;
 }
+#elem1 {
+    border: 2px dotted blue;
+    width: 300px;
+    height: 200px;
+}
 #elem2 {
-    border-width: 5px;
-    border-style: ridge;
-    border-color: blue;
+    border: 3px dashed green;
     width: 300px;
     height: 200px;
 }
 #elem3 {
-    border-width: 4px;
-    border-style: dotted;
-    border-color: red;
+    border: 4px double orange;
     width: 300px;
     height: 200px;
 }
-#elem4 {
-    border-width: 3px;
-    border-style: dashed;
-    border-color: orange;
-    width: 300px;
-    height: 200px;
-}
-#elem5 {
-    border-width: 7px;
-    border-style: double;
-    border-color: blue;
-    width: 300px;
-    height: 200px;
-}
+
