@@ -103,9 +103,11 @@
 		синий цвет фона */
 }
 #elem1 {
+    text-align: center;
+    font-size: 30px;
     width: 400px;
     height: 200px;
     color: white;
-    background-color:green; /* задаем
+    background-color:greenyellow; /* задаем
 		зеленого цвет фона */
 }
