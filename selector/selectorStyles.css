@@ -95,13 +95,13 @@
 /*    color: blue;*/
 /*}*/
 /*li:not(:first-child, :last-child ) {color: red;}*/
-#elem {
-    width: 200px;
-    height: 200px;
-    color: red;
-    background-color: blue; /* задаем
-		синий цвет фона */
-}
+/*#elem {*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    color: red;*/
+/*    background-color: blue; !* задаем*/
+/*		синий цвет фона *!*/
+/*}*/
 #elem1 {
     text-align: center;
     font-size: 30px;
@@ -109,5 +109,19 @@
     height: 200px;
     color: white;
     background-color:greenyellow; /* задаем
-		зеленого цвет фона */
+		зеленый цвет фона */
+}
+#elem {
+    border-width: 3px;    /* толщина 3px */
+    border-style: solid;  /* в виде линии */
+    border-color: red;    /* красный цвет */
+    width: 300px;
+    height: 100px;
+}
+#elem2 {
+    border-width: 5px;
+    border-style: ridge;
+    border-color: blue;
+    width: 300px;
+    height: 200px;
 }
