@@ -126,9 +126,16 @@
     height: 200px;
 }
 #elem3 {
-    border-width: 5px;
+    border-width: 4px;
     border-style: dotted;
     border-color: red;
+    width: 300px;
+    height: 200px;
+}
+#elem4 {
+    border-width: 3px;
+    border-style: dashed;
+    border-color: orange;
     width: 300px;
     height: 200px;
 }
