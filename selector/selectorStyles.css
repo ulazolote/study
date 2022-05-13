@@ -195,16 +195,22 @@
     border-radius: 20px;
     background-color: #4dee99;
 }
-#elem4 {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    border: 1px solid green;
-}
+/*#elem4 {*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    border-radius: 100px;*/
+/*    border: 1px solid green;*/
+/*}*/
 #elem1 {
     width: 200px;
     height: 200px;
     border-radius: 10px 20px 30px 40px;
+    border: 1px solid green;
+}
+#elem2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px 20px 10px 20px;
     border: 1px solid green;
 }
 
