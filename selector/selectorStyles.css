@@ -220,6 +220,6 @@
 /*    border: 1px solid green;*/
 /*}*/
 body {
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     background-image: url("bg.png");
 }
