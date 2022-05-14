@@ -1,4 +1,15 @@
 body {
+    background-attachment: fixed;
     background-image: url("neon-lights-background-theme_52683-44625.webp");
-}
 
+}
+tr {text-align: center;
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+}
+tr{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
