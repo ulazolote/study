@@ -291,3 +291,16 @@
 /*    height: 250px;*/
 /*    border: 1px solid green;*/
 /*}*/
+#parent {
+    width: 200px;
+    border: 1px solid red;
+}
+#child {
+    margin-top:    75px; /* сверху */
+    margin-right:  20px; /* справа */
+    margin-bottom: 75px; /* снизу */
+    margin-left:   20px; /* слева */
+
+    height: 150px;
+    border: 1px solid green;
+}
