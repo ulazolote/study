@@ -305,11 +305,11 @@
 /*    border: 1px solid green;*/
 /*}*/
 #parent {
-    width: 250px;
+    width: 500px;
     border: 1px solid orange;
 }
 #child {
     height: 100px;
     border: 1px dashed blue;
-    margin:150px 50px 30px ;
+    margin:30px 125px 75px ;
 }
