@@ -263,4 +263,6 @@
 /*    font-weight: bold;*/
 /*    font-size: 20px;*/
 /*ul{list-style-type: circle;}*/
-ul{list-style-type: none;}
+/*ul{list-style-type: none;}*/
+ol{list-style-type: lower-alpha;}
+
