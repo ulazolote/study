@@ -296,10 +296,10 @@
     border: 1px solid red;
 }
 #child {
-    margin-top:    75px; /* сверху */
-    margin-right:  20px; /* справа */
-    margin-bottom: 75px; /* снизу */
-    margin-left:   20px; /* слева */
+    margin-top:    15px; /* сверху */
+    margin-right: 75px; /* справа */
+    margin-bottom: 15px; /* снизу */
+    margin-left:   75px; /* слева */
 
     height: 150px;
     border: 1px solid green;
