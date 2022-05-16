@@ -219,47 +219,47 @@
 /*    border-radius: 50%;*/
 /*    border: 1px solid green;*/
 /*}*/
-#elem {
-    background-position: center center;
-    background-image: url("smile.png");
-    background-repeat: no-repeat;
-    width: 400px;
-    height: 300px;
-    border: 1px solid black;
-}
-.elem {
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-image: url("bg.png");
-    border: 1px solid black;
-    margin-bottom: 20px;
-}
+/*#elem {*/
+/*    background-position: center center;*/
+/*    background-image: url("smile.png");*/
+/*    background-repeat: no-repeat;*/
+/*    width: 400px;*/
+/*    height: 300px;*/
+/*    border: 1px solid black;*/
+/*}*/
+/*.elem {*/
+/*    background-size: contain;*/
+/*    background-repeat: no-repeat;*/
+/*    background-image: url("bg.png");*/
+/*    border: 1px solid black;*/
+/*    margin-bottom: 20px;*/
+/*}*/
 
-#elem1 {
-    width: 600px;
-    height: 500px;
-}
-.elem {
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url("bg.png");
-    border: 1px solid black;
-    margin-bottom: 20px;
-}
-#elem2 {
-    width: 500px;
-    height: 600px;
-}
-body {
-    background-attachment: fixed;
-    background-image: url("bg.png");
-}
+/*#elem1 {*/
+/*    width: 600px;*/
+/*    height: 500px;*/
+/*}*/
+/*.elem {*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+/*    background-image: url("bg.png");*/
+/*    border: 1px solid black;*/
+/*    margin-bottom: 20px;*/
+/*}*/
+/*#elem2 {*/
+/*    width: 500px;*/
+/*    height: 600px;*/
+/*}*/
+/*body {*/
+/*    background-attachment: fixed;*/
+/*    background-image: url("bg.png");*/
+/*}*/
 
-#elem {
-    width: 400px;
-    margin: 0 auto;
-    text-align: justify;
-    font-weight: bold;
-    font-size: 20px;
-}
+/*#elem {*/
+/*    width: 400px;*/
+/*    margin: 0 auto;*/
+/*    text-align: justify;*/
+/*    font-weight: bold;*/
+/*    font-size: 20px;*/
+ul{list-style-type: square;}
