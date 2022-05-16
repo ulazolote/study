@@ -291,16 +291,25 @@
 /*    height: 250px;*/
 /*    border: 1px solid green;*/
 /*}*/
+/*#parent {*/
+/*    width: 200px;*/
+/*    border: 1px solid red;*/
+/*}*/
+/*#child {*/
+/*    margin-top:    15px; !* сверху *!*/
+/*    margin-right: 75px; !* справа *!*/
+/*    margin-bottom: 15px; !* снизу *!*/
+/*    margin-left:   75px; !* слева *!*/
+
+/*    height: 150px;*/
+/*    border: 1px solid green;*/
+/*}*/
 #parent {
-    width: 200px;
-    border: 1px solid red;
+    width: 250px;
+    border: 1px solid orange;
 }
 #child {
-    margin-top:    15px; /* сверху */
-    margin-right: 75px; /* справа */
-    margin-bottom: 15px; /* снизу */
-    margin-left:   75px; /* слева */
-
-    height: 150px;
-    border: 1px solid green;
+    height: 100px;
+    border: 1px dashed blue;
+    margin: 20px 50px 70px 10px;
 }
