@@ -110,7 +110,8 @@
 // num++;
 // num--;
 // alert(num);
-
+let num = 3;
+alert(num--);
 
 
 
