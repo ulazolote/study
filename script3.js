@@ -105,12 +105,11 @@
 // num *= 10;
 // num /=15;
 // alert(num);
-let num = 10;
-num++;
-num++;
-num--;
-alert(num);
-
+// let num = 10;
+// num++;
+// num++;
+// num--;
+// alert(num);
 
 
 
