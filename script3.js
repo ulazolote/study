@@ -99,11 +99,7 @@
 // alert(a[0] *a[1]* a[2] *a [3] * a[4]);
 // );let a=String(12345);
 // alert(a[4]+a[3]+a[2]+a[1]+a[0]
-let num = 1;
-num = num + 2;
-num = num + 3;
 
-alert(num);
 
 
 
