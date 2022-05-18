@@ -149,9 +149,32 @@
 // let str='JS';
 // document.write('<b>'+str+'</b>');
 
-//задача 4
-document.write('1<br>');
-document.write('2<br>');
-document.write('3<br>');
-document.write('4<br>');
-document.write('5<br>');
+// //задача 4
+// document.write('1<br>');
+// document.write('2<br>');
+// document.write('3<br>');
+// document.write('4<br>');
+// document.write('5<br>');
+
+// поиск ошибок задача 1
+// let num1 = 1;
+// let num2 = 2;
+// console.log('сумма: ' + num1 +
+//     num2);// сумма строки
+
+//задача 1
+// let num1 = 1;
+// let num2 = 2;
+// console.log( num1 +
+//     num2);
+
+//2
+// let a = 1;
+// let b = 2;
+// console.log(a + b);
+
+//3
+let num = '123';
+let sum =( num+'1'+'2'
+);
+console.log(num);
