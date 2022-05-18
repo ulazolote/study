@@ -128,8 +128,30 @@
 // let s=a**2;
 // alert(s);
 
-//задача 4 периметр прямоугольника
-let a=prompt('сторона прямоугольника');
-let b=prompt('другая сторона');
-let p=(a+b)*2;
-alert(p);
+// //задача 4 периметр прямоугольника
+// let a=prompt('сторона прямоугольника');
+// let b=prompt('другая сторона');
+// let p=(a+b)*2;
+// alert(p);
+
+// вывод текста вдокумент
+// document.write('<b>text</b>');
+// let str = 'text';
+// document.write(str);
+// let str = 'text';
+// document.write('<b>' + str + '</b>');
+
+// //задача 1 и 2
+// let str='изучение JS';
+// document.write(str);
+
+// //задача 3
+// let str='JS';
+// document.write('<b>'+str+'</b>');
+
+//задача 4
+document.write('1<br>');
+document.write('2<br>');
+document.write('3<br>');
+document.write('4<br>');
+document.write('5<br>');
