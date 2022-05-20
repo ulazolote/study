@@ -174,7 +174,19 @@
 // console.log(a + b);
 
 //3
-let num = '123';
-let sum =( num+'1'+'2'
-);
-console.log(num);
+// let num = '123';
+// let sum =( num+'1'+'2'
+// );
+// console.log(num);
+
+// //задача 4
+// let num =  '123';
+// console.log(num[0]);// взял 123 в ковычки
+//
+// //задача 5
+// let a = 0;
+// console.log(++a);// перенес а после плюсов
+
+//задача 6
+let num = 123;
+console.log(String(num).length);// добавил String и()
