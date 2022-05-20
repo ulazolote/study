@@ -222,7 +222,27 @@
 // console.log(s);// вместо String  Number
 
 //задача 13
-let aaa = 1;
-let bbb = 2;
-let ccc = 3;
-console.log(aaa + bbb + ccc);//верно
+// let aaa = 1;
+// let bbb = 2;
+// let ccc = 3;
+// console.log(aaa + bbb + ccc);//верно
+
+//ПРАКТИКА на операции
+//задача 1 Найдите количество секунд в сутках.
+// let day=60*60*24;
+// alert(day);
+
+//задача 2 Найдите количество секунд в 30 сутках .
+// let secondsToDay=60*60*24;
+// alert(secondsToDay*30);
+
+//задача 3 Найдите количество секунд в году.
+// let secondsToDay=60*60*24;
+// let secondToYear=secondsToDay*365;
+// alert(secondToYear);
+
+//задача 4 Найдите количество минут в сутках.
+// let minutesToDay=60*24;
+// alert(minutesToDay);
+
+//
