@@ -245,4 +245,19 @@
 // let minutesToDay=60*24;
 // alert(minutesToDay);
 
+//задача 5 Найдите количество минут в году.
+// let minutesToDay=60*24;
+// let minutesToYear=minutesToDay*365;
+// alert(minutesToYear);
+
+//задача 6 Найдите количество байт в мегабайте.
+// let kb=1024;
+// let mb=kb**2;
+// alert(mb);
+
+//задача 7 Найдите количество байт в гигабайте.
+// let kb=1024;
+// let gb=kb**3;
+// alert(gb);
+
 //
