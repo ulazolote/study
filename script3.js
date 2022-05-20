@@ -187,6 +187,20 @@
 // let a = 0;
 // console.log(++a);// перенес а после плюсов
 
-//задача 6
+// //задача 6
+// let num = 123;
+// console.log(String(num).length);// добавил String и()
+
+//задача 7
+// let a = 24 / 60 / 60;
+// console.log(a);//правда
+
+//задача 8
+// let num = 123;
+// let str = String(num);
+// console.log(String(num).length);// добавил String и ()
+
+//задача 9
 let num = 123;
-console.log(String(num).length);// добавил String и()
+let str = String(num);
+console.log(str[str.length -1]);//вместо num str и вконце -1
