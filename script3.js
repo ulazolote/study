@@ -201,6 +201,28 @@
 // console.log(String(num).length);// добавил String и ()
 
 //задача 9
-let num = 123;
-let str = String(num);
-console.log(str[str.length -1]);//вместо num str и вконце -1
+// let num = 123;
+// let str = String(num);
+// console.log(str[str.length -1]);//вместо num str и вконце -1
+
+//задача 10
+// let num = 123;
+// let str = String(num);
+// console.log(String(num).length);//вместо str String ()
+
+//задача 11
+// let num = 123;
+// let str = String(num);
+// console.log(str[str.length -1]);// добавил -1
+
+//задача 12
+// let a = '123';
+// let b = '456';
+// let s = Number(a) + Number(b);
+// console.log(s);// вместо String  Number
+
+//задача 13
+let aaa = 1;
+let bbb = 2;
+let ccc = 3;
+console.log(aaa + bbb + ccc);//верно
