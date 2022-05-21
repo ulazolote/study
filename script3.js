@@ -307,3 +307,20 @@
 // let tf=85;
 // let tc=tf-32*9/5;
 // alert(tc);
+
+// Массивы в JS
+//задача 1 создание массивов вывод на экран и консоль
+// let arr = ['a', 'b', 'c'];
+// alert(arr);
+// console.log(arr);
+
+//задача 2 вывод на экран каждого массива
+// let arr = ['a', 'b', 'c'];
+// console.log(arr[0]);
+// console.log(arr[1]);
+// console.log(arr[2]);
+
+//задача 3 вывод на экран измененой строки
+// let arr = ['a','b','c','d'];
+// console.log(arr[0] + ' + ' + arr[1] + ' + ' + arr[2] + ' + ' + arr[3]);
+
