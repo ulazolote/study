@@ -338,5 +338,27 @@
 // console.log(arr.length);
 
 //задача 7 последний элемент массива (length-1)
-let arr=[23,45,34,2,8,867,1,243];
- console.log(arr[arr.length-1]);
+// let arr=[23,45,34,2,8,867,1,243];
+// console.log(arr[arr.length-1]);
+
+//задача 8 изменение массива
+// let arr = ['a','b','c'];
+// arr[0] = 1;
+// arr[1] = 2;
+// arr[2] = 3;
+// console.log(arr);
+
+//задача 9 прибавил 3
+// let arr = [1,2,3];
+// arr[0] += 3;
+// arr[1] += 3;
+// arr[2] += 3;
+// console.log(arr);
+
+//задача 10 через ++ увеличил на 1
+// let arr=[1,2,3];
+// arr[0]++;
+// arr[1]++;
+// arr[2]++;
+// console.log(arr);
+
