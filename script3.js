@@ -324,3 +324,13 @@
 // let arr = ['a','b','c','d'];
 // console.log(arr[0] + ' + ' + arr[1] + ' + ' + arr[2] + ' + ' + arr[3]);
 
+//задача 4 вывод на экран сумму элементов
+// let arr = [1,2,3];
+// console.log(arr[0] + arr[1] + arr[2]);
+
+//задача 5 умножение+сложение+ result+ вывод на экран
+// let arr = [2,5,3,9];
+// let result = arr[0]*arr[1] + arr[2]*arr[3];
+// console.log(result);
+
+
