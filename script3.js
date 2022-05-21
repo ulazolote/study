@@ -381,3 +381,10 @@
 // arr[8] = 'b';
 // console.log(arr.length);// выведет 9
 
+//задача 1 объект с ключами
+// let obj={1:'a', 2:'b', 3:'c'};
+// console.log(obj);
+
+//задача 2 сумма елементов
+let obj={a:1, b:2, c:3};
+console.log(obj['a']+obj['b']+obj['c']);
