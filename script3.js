@@ -333,4 +333,10 @@
 // let result = arr[0]*arr[1] + arr[2]*arr[3];
 // console.log(result);
 
+//задача 6 длина массива (length)
+// let arr=[23,45,34,2,8,867,1,243];
+// console.log(arr.length);
 
+//задача 7 последний элемент массива (length-1)
+let arr=[23,45,34,2,8,867,1,243];
+ console.log(arr[arr.length-1]);
