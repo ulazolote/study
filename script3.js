@@ -437,3 +437,11 @@
 // let key='a';
 // console.log(obj[key]);
 
+//задача 1
+//JavaScript шесть примитивных типов данных: string, number, boolean, null, undefined, symbol.
+
+//задача 2
+// console.log( typeof {a: 1, b: 2, c: 3} );
+//задача 3
+// console.log( typeof [1, 2, 3] );
+//
