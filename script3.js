@@ -386,5 +386,13 @@
 // console.log(obj);
 
 //задача 2 сумма елементов
-let obj={a:1, b:2, c:3};
-console.log(obj['a']+obj['b']+obj['c']);
+// let obj={a:1, b:2, c:3};
+// console.log(obj['a']+obj['b']+obj['c']);
+
+//задача 3 сумма елементов
+// let obj={'1a':1,'2b':2,'c-c':3};
+// console.log(obj['1a']+obj['2b']+obj['c-c']);
+
+//задача 4
+let obj = {'1a': 1, 'b2': 2, 'c-c': 3, 'd4': 4};
+//обязательны для '1a','c-c',необязательны для b2,d4
