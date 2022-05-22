@@ -444,4 +444,16 @@
 // console.log( typeof {a: 1, b: 2, c: 3} );
 //задача 3
 // console.log( typeof [1, 2, 3] );
-//
+//задача 4
+// let arr = [1, 2, 3];
+// console.log( typeof arr );
+//задача 5
+// let arr = [1, 2, 3];
+// console.log( typeof arr[0] );
+// задача 6
+// let arr = ['1', '2', '3'];
+// console.log( typeof arr[0] );
+//задача 7
+// console.log( Array.isArray([1, 2, 3]) );
+//задача 8
+console.log( Array.isArray({a: 1, b: 2, c: 3}) );
