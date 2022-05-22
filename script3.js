@@ -402,5 +402,20 @@
 // console.log(obj.key3+obj.key2+obj.key1);
 
 //задача 6
-let obj = {'1a': 1, 'b2': 2, 'eee-': 3, 'd4': 4};
+// let obj = {'1a': 1, 'b2': 2, 'eee-': 3, 'd4': 4};
 //допустимо обращение к b2, d4
+
+//задача 7 создание объекта
+// let user={name:'сергей',surname:'золотенков',patronymic:'вячеславович'};
+// console.log(user.surname+' ' +user.name+' ' +user.patronymic);
+
+//задача 8 создание объекта
+// let date={year:'2022',month:'05',day:'22'};
+// console.log(date.year+'-'+date.month+'-'+date.day);
+
+//задача 9 создание объекта
+let obj={};
+obj.a='1';
+obj.b='2';
+obj.c='3';
+console.log(obj);
