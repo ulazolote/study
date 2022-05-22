@@ -454,6 +454,6 @@
 // let arr = ['1', '2', '3'];
 // console.log( typeof arr[0] );
 //задача 7
-// console.log( Array.isArray([1, 2, 3]) );
-//задача 8
-console.log( Array.isArray({a: 1, b: 2, c: 3}) );
+// // console.log( Array.isArray([1, 2, 3]) );
+// //задача 8
+// console.log( Array.isArray({a: 1, b: 2, c: 3}) );
