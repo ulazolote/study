@@ -454,44 +454,6 @@
 // let arr = ['1', '2', '3'];
 // console.log( typeof arr[0] );
 //задача 7
-// console.log( Array.isArray([1, 2, 3]) );
-//задача 8
+// // console.log( Array.isArray([1, 2, 3]) );
+// //задача 8
 // console.log( Array.isArray({a: 1, b: 2, c: 3}) );
-
-//передача объектов по ссылке
-//задача 1
-// let arr1 = [1, 2, 3];
-// let arr2 = arr1;
-// arr1[0] = 'a';
-// console.log(arr2);
-
-//задача 2
-// let arr1 = [1, 2, 3];
-// let arr2 = arr1;
-// arr1[0] = 'a';
-// arr2[1] = 'b';
-// console.log(arr1);
-
-//задача 3
-// let arr1 = [1, 2, 3];
-// let arr2 = arr1;
-// arr1[0] = 'a';
-// arr2[0] = 'b';
-// console.log(arr2);
-
-//оператор in
-//задача 1
-// let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
-// console.log('e' in obj);
-// console.log('f' in obj);
-
-//оператор delete
-//задача 1(объекты)
-// let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
-// // delete obj.e;
-// // console.log('e' in obj);
-
-//задача 2(массивы)
-// let arr = ['a', 'b', 'c', 'd', 'e'];
-// delete arr[1, 2];
-// console.log(arr.length);
