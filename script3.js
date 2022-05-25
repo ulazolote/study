@@ -457,3 +457,9 @@
 // // console.log( Array.isArray([1, 2, 3]) );
 // //задача 8
 // console.log( Array.isArray({a: 1, b: 2, c: 3}) );
+
+//константы с массивами или объектами
+// const arr = ['a', 'b', 'c'];
+// arr[1] = '!';
+// console.log(arr);
+
