@@ -469,3 +469,22 @@
 // const res = arr[1] + arr[2];
 // console.log(res);
 
+//Поиск ошибок в коде с массивами и объектами
+//Задача 1
+// let arr = [1, 2, 3, 4, 5];
+// console.log(arr[arr.length-1]);
+
+//Задача 2
+// let arr = [1, 2, 3, 4, 5];
+// console.log(arr[0] + arr[1] + arr[2]
+//     + arr[3] + arr[4]);
+
+//Задача 3
+// let arr = [1, 2, 3, 4, 5];
+// console.log(arr.length);
+
+//Задача 4
+// let obj = {a: 1, b: 2, c: 3};
+// // console.log(obj['a']);
+
+//
