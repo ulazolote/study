@@ -487,4 +487,17 @@
 // let obj = {a: 1, b: 2, c: 3};
 // // console.log(obj['a']);
 
-//
+//Задача 5
+// let obj = {a: 1, b: 2, c: 3};
+// let key ='a';
+// console.log(obj[key]);
+
+//Задача 6
+// let obj = {a: 1, b: 2, c: 3};
+// let sum = obj['a'] + obj['b'] + obj['c'];
+// console.log(sum);
+
+//Задача 7
+// let obj = {a: 1, b: 2, c: 3};
+// console.log(obj);
+
