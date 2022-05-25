@@ -501,3 +501,11 @@
 // let obj = {a: 1, b: 2, c: 3};
 // console.log(obj);
 
+//Конструкция if-else в JS
+//Операторы больше и меньше
+//Задача 1
+let test=5
+ if (test>10){
+    alert( 'Верно' );
+}
+else {alert ( 'Неверно' );}
