@@ -481,6 +481,17 @@
 
 //оператор in
 //задача 1
-let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
-console.log('e' in obj);
-console.log('f' in obj);
+// let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
+// console.log('e' in obj);
+// console.log('f' in obj);
+
+//оператор delete
+//задача 1(объекты)
+// let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
+// // delete obj.e;
+// // console.log('e' in obj);
+
+//задача 2(массивы)
+// let arr = ['a', 'b', 'c', 'd', 'e'];
+// delete arr[1, 2];
+// console.log(arr.length);
