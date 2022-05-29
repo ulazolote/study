@@ -536,7 +536,11 @@
 // else {alert( 'неверно');}
 
 //Задача 7
-let test1=5;
-let test2=10;
-if (test2 > test1) {alert('верно');}
-else {alert('неверно');}
+// let test1=5;
+// let test2=10;
+// if (test2 > test1) {alert('верно');}
+// else {alert('неверно');}
+
+//Типы данных и конструкция if-else.Числа в кавычках
+//Равенство по значению и типу
+//
