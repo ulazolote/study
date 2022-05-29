@@ -685,3 +685,68 @@
 // if (test == false) {alert('верно');}
 // else {alert('неверно');}
 
+//Логические значения и двойное равно
+//Задача 3
+// let test = 1;
+//
+// if (test == true) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+ //Задача 4
+// let test = 0;
+//
+// if (test == true) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 5
+// let test = 1;
+//
+// if (test == false) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 6
+// let test = 1;
+//
+// if (test != true) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 7
+// let test = '';
+//
+// if (test == false) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 8
+// let test;
+//
+// if (test == true) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 9
+// let test = 3 * 'a';
+//
+// if (test == true) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//
