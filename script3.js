@@ -511,6 +511,16 @@
 // else {alert ( 'Неверно' );}
 
 //Задача 2
+// let  test=5
+// if (test<10){alert( 'верно');}
+// else {alert( 'неверно');}
+
+//Задача 3
+// let  test=5
+// if (test>=10){alert( 'верно');}
+// else {alert( 'неверно');}
+
+//Задача 4
 let  test=5
-if (test<10){alert( 'верно');}
+if (test<=10){alert( 'верно');}
 else {alert( 'неверно');}
