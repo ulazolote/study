@@ -669,3 +669,19 @@
 //  let num2=5;
 //  if(!(num1 >= 0 || num2 <= 10) ){alert('верно');}
 //  else {alert('неверно');}
+
+//Конструкция if-else и булевы значения
+//Задача1
+// let test = true;
+//
+// if (test == true) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 2
+// let test = false ;
+// if (test == false) {alert('верно');}
+// else {alert('неверно');}
+
