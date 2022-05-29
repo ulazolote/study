@@ -504,23 +504,39 @@
 //Конструкция if-else в JS
 //Операторы больше и меньше
 //Задача 1
-// let test=5
+// let test=5;
 //  if (test>10){
 //     alert( 'Верно' );
 // }
 // else {alert ( 'Неверно' );}
 
 //Задача 2
-// let  test=5
+// let  test=5;
 // if (test<10){alert( 'верно');}
 // else {alert( 'неверно');}
 
 //Задача 3
-// let  test=5
+// let  test=5;
 // if (test>=10){alert( 'верно');}
 // else {alert( 'неверно');}
 
 //Задача 4
-let  test=5
-if (test<=10){alert( 'верно');}
-else {alert( 'неверно');}
+// let  test=5;
+// if (test<=10){alert( 'верно');}
+// else {alert( 'неверно');}
+
+//Задача 5
+// let  test=5;
+// // if (test==10){alert( 'верно');}
+// // else {alert( 'неверно');}l
+
+//Задача 6
+// let  test=5;
+// if (test!=10){alert( 'верно');}
+// else {alert( 'неверно');}
+
+//Задача 7
+let test1=5;
+let test2=10;
+if (test2 > test1) {alert('верно');}
+else {alert('неверно');}
