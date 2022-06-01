@@ -695,7 +695,7 @@
 //     alert('неверно');
 // }
 
- //Задача 4
+//Задача 4
 // let test = 0;
 //
 // if (test == true) {
@@ -903,7 +903,28 @@
 // else if (day>10&&day<=20){alert('2 декада');}
 // else {alert('3 декада');}
 
+//Задача 3(Преимущество else if)
 //Задача 3
+// let day=32;
+// if (day>0&&day<=10){alert('1 декада');}
+// else if (day>10&&day<=20){alert('2 декада');}
+// else if (day>20&&day<=31){alert('3 декада');}
+// else {alert('Дата неверна');}
+
+//
+//
+let age = 77;
+if (age > 10 && age < 99) {
+    let str = String(age);
+    let sum = Number(str[0]) + Number(str[1]);
+    if (sum <= 9) {
+        alert('Сумма однозначна');
+    } else {
+        alert('Сумма двузначна');
+    }
+} else {
+    alert('Возвраст меньше 10 или больше 99');
+}
 
 
 
