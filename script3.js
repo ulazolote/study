@@ -890,5 +890,12 @@
 // let test=0;
 // if (test == 0) alert('верно');
 
+//Комбинации конструкций if-else в JS.
+//Задача 1
+let day=17;
+if (day>0&&day<=10){alert('1 декада');}
+if (day>10&&day<=20){alert('2 декада');}
+if (day>20&&day<=31){alert('3декада');}
+
 
 
