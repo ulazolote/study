@@ -892,10 +892,19 @@
 
 //Комбинации конструкций if-else в JS.
 //Задача 1
-let day=17;
-if (day>0&&day<=10){alert('1 декада');}
-if (day>10&&day<=20){alert('2 декада');}
-if (day>20&&day<=31){alert('3декада');}
+// let day=17;
+// if (day>0&&day<=10){alert('1 декада');}
+// if (day>10&&day<=20){alert('2 декада');}
+// if (day>20&&day<=31){alert('3декада');}
+
+//Задача 2(else if).
+// let day=10;
+// if (day>0&&day<=10){alert('1 декада');}
+// else if (day>10&&day<=20){alert('2 декада');}
+// else {alert('3 декада');}
+
+//Задача 3
+
 
 
 
