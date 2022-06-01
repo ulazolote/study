@@ -778,3 +778,97 @@
 //     alert('неверно');
 // }
 
+//Задача 13
+// let test=true;
+// if(test){alert('верно');}
+// else {alert('неверно');}
+
+//Задача 14
+// let test = 3;
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 15
+// let test = 'abc';
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 16
+// let test = '';
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+// //Задача 17
+// let test = 3 * 'abc';
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 18
+// let test = null;
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 19
+// let test = false;
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 20
+// let test;
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 21
+// let test = 0;
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 22
+// let test = '0';
+//
+// if (test) {
+//     alert('верно');
+// } else {
+//     alert('неверно');
+// }
+
+//Задача 23
+let test = -1;
+
+if (test) {
+    alert('верно');
+} else {
+    alert('неверно');
+}
