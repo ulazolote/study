@@ -937,8 +937,44 @@
 // }
 // console.log(adult);
 
-//
+//Нюансы
+//Задача 2
+// let age = 17;
+// let adult;
+// adult = age >= 18;
+// console.log(adult);
 
+//Задача 3
+// let age=17;
+// let adult;
+// adult = age >= 18;
+// console.log(adult);
 
+//Задача 4
+// let age = 17;
+// let result;
+// if (age >= 18) {
+//      if (age <= 23) {
+//            result = 'от 18 до 23';
+//      } else {
+//            result = 'больше 23';
+//      }
+// } else {
+//       result = 'меньше 18';
+// }
+// console.log(result);
 
+//Задача 5
+let age = 19;
+let result;
+if (age >= 18) {
+     if (age <= 23) {
+          result = 'от 18 до 23';
+     } else {
+          result = 'больше 23';
+     }
+} else {
+     result = 'меньше 18';
+}
+console.log(result);
 
