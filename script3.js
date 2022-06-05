@@ -911,20 +911,20 @@
 // else if (day>20&&day<=31){alert('3 декада');}
 // else {alert('Дата неверна');}
 
-//
-//
-let age = 77;
-if (age > 10 && age < 99) {
-    let str = String(age);
-    let sum = Number(str[0]) + Number(str[1]);
-    if (sum <= 9) {
-        alert('Сумма однозначна');
-    } else {
-        alert('Сумма двузначна');
-    }
-} else {
-    alert('Возвраст меньше 10 или больше 99');
-}
+//Вложенные if
+//Задача 4
+// let age = 77;
+// if (age > 10 && age < 99) {
+//     let str = String(age);
+//     let sum = Number(str[0]) + Number(str[1]);
+//     if (sum <= 9) {
+//         alert('Сумма однозначна');
+//     } else {
+//         alert('Сумма двузначна');
+//     }
+// } else {
+//     alert('Возвраст меньше 10 или больше 99');
+// }
 
 
 
