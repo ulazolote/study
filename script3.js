@@ -1056,4 +1056,41 @@
 //     alert('Это число не делится на 3 без остатка');
 // }
 
+//Практика на условия if-else в JavaScript
+//Задача 1
+// let month=2;
+// if ((month==12)||(month>1&&month<3)){
+//     alert('Зима');
+// }
+// if (month>2&&month<6){
+//     alert('Весна');
+// }
+// if (month>5&&month<9){
+//     alert('Лето');
+// }
+// if (month>8&&month<12){
+//     alert('Осень');
+// }
 
+//Задача 2
+// let str='abcde';
+// if (str[0]=='a'){
+//     alert('ДА');
+// }
+// else {alert('НЕТ');}
+
+//Задача 3
+// let int=12345;
+// let str=String(int);
+// if (str[0]==1||str[0]==2||str[0]==3){
+//     alert('ДА');
+// }
+// else{alert('НЕТ');}
+
+//Задача 4
+// let int=589;
+// let str=String(int);
+// let int2=Number(str[0])+Number(str[1])+Number(str[2]);
+// alert(int2);
+
+//Задача 5
