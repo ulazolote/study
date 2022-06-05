@@ -978,5 +978,40 @@
 // }
 // console.log(result);
 
+//Задача 6
+// let num = 1;
+//
+// if (num == 1) {
+//      var result = 'верно';
+// } else {
+//      var result = 'неверно';
+// }
+//
+// console.log(result);
 
+//Задача 7
+// let num = 1;
+//
+// if (num == 1) {
+//      let result = 'верно';
+// } else {
+//      let result = 'неверно';
+// }
+//
+// console.log(result);
 
+//Примеры использования if-else в JavaScript.
+// //Четверть часа
+// //Задача 1
+// let min=22;
+// if (min>0&&min<21) {
+//     alert('1-я двадцатиминутка');
+// }
+// if (min>20&&min<41){
+//     alert('2-я двадцатиминутка');
+// }
+// if (min>40&&min<59){
+//     alert('3-я двадцатиминутка');
+// }
+
+//
