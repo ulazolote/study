@@ -926,6 +926,19 @@
 //     alert('Возвраст меньше 10 или больше 99');
 // }
 
+//Область видимости let и var в if-else
+//Задача 1
+// let age = 17;
+// let adult;
+// if (age >= 18) {
+//      adult = true;
+// } else {
+//      adult = false;
+// }
+// console.log(adult);
+
+//
+
 
 
 
